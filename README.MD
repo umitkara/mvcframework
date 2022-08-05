@@ -1,0 +1,1 @@
+Simple PHP MVC framework without specialized controller. Core act as a router on its own.
